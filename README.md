@@ -1,0 +1,2 @@
+# Implementation-of-Glasius-Bio-Inspires-Neural-Network-for-Complete-Coverage-Path-Planning-of-AUV
+Complete coverage path planning for an AUV uses the Glasius Bio-Inspired Neural Network (GBNN) algorithm. The underwater workspace is discretized into a 2D grid map, forming a corresponding neural network. The GBNN algorithm updates neural activity to reflect grid states, guiding the AUV for optimal path coverage and obstacle avoidance.
